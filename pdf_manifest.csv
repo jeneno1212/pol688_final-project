@@ -1,0 +1,49 @@
+org_name,ein,ntee,year,status,file_path
+NAACP LDF,131655255,B,2016,error,NA
+NAACP LDF,131655255,B,2018,error,NA
+NAACP LDF,131655255,B,2020,error,NA
+NAACP LDF,131655255,B,2022,error,NA
+UNCF,131624241,B,2016,error,NA
+UNCF,131624241,B,2018,missing,NA
+UNCF,131624241,B,2020,error,NA
+UNCF,131624241,B,2022,error,NA
+Teach For America,133541913,B,2016,error,NA
+Teach For America,133541913,B,2018,error,NA
+Teach For America,133541913,B,2020,error,NA
+Teach For America,133541913,B,2022,error,NA
+United Way,131635294,P,2016,error,NA
+United Way,131635294,P,2018,error,NA
+United Way,131635294,P,2020,error,NA
+United Way,131635294,P,2022,error,NA
+Goodwill Intl,530196517,P,2016,error,NA
+Goodwill Intl,530196517,P,2018,error,NA
+Goodwill Intl,530196517,P,2020,error,NA
+Goodwill Intl,530196517,P,2022,error,NA
+American Red Cross,530196605,P,2016,error,NA
+American Red Cross,530196605,P,2018,error,NA
+American Red Cross,530196605,P,2020,error,NA
+American Red Cross,530196605,P,2022,error,NA
+ACLU Foundation,136213516,R,2016,error,NA
+ACLU Foundation,136213516,R,2018,missing,NA
+ACLU Foundation,136213516,R,2020,error,NA
+ACLU Foundation,136213516,R,2022,error,NA
+National Urban League,131840489,R,2016,error,NA
+National Urban League,131840489,R,2018,error,NA
+National Urban League,131840489,R,2020,error,NA
+National Urban League,131840489,R,2022,missing,NA
+HRC Foundation,521481896,R,2016,error,NA
+HRC Foundation,521481896,R,2018,error,NA
+HRC Foundation,521481896,R,2020,error,NA
+HRC Foundation,521481896,R,2022,error,NA
+Lincoln Center,131847137,A,2016,error,NA
+Lincoln Center,131847137,A,2018,error,NA
+Lincoln Center,131847137,A,2020,error,NA
+Lincoln Center,131847137,A,2022,error,NA
+Kennedy Center,530245017,A,2016,error,NA
+Kennedy Center,530245017,A,2018,error,NA
+Kennedy Center,530245017,A,2020,missing,NA
+Kennedy Center,530245017,A,2022,error,NA
+Met Museum of Art,131624086,A,2016,error,NA
+Met Museum of Art,131624086,A,2018,error,NA
+Met Museum of Art,131624086,A,2020,error,NA
+Met Museum of Art,131624086,A,2022,error,NA
